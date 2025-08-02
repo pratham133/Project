@@ -23,7 +23,7 @@ By systematically analyzing maternal health data, the project seeks to:
 
 ## 📂 Repository Contents
 
-- `pratham_maternal_health_project.pdf`: Main project document outlining methodology and findings.
+- `pratham_maternal_health_project.pdf`: Main project document outlining methodology and findings..
 - Additional files may include datasets, scripts, or visualizations (if added later).
 
 ---
